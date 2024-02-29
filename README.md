@@ -34,3 +34,13 @@ Nevertheless, it is worth noting that the predominant approaches in existing mas
 
 ## Acknowledgement
 This repository borrows from [CNXv2](https://github.com/facebookresearch/ConvNeXt-V2), [MAE](https://github.com/facebookresearch/mae) and [MinkowskiEngine](https://github.com/NVIDIA/MinkowskiEngine).
+
+## Citation
+```
+@inproceedings{pei2024videomac,
+  title={VideoMAC: Video Masked Autoencoders Meet ConvNets},
+  author={Pei, Gensheng and Chen, Tao and Jiang, Xiruo and Liu, Huafeng and Sun, Zeren and Yao, Yazhou},
+  booktitle={CVPR},
+  year={2024}
+}
+```
